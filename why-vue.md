@@ -21,7 +21,11 @@
 ## رقیبان ویو
 
  Angular JS
+ 
  Bootstrap
+ 
  jQuery
+
  React 
+ 
  Angular 2
