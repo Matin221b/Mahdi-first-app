@@ -3,3 +3,7 @@ node_modules
 dist
 dist-ssr
 *.local
+*.mp4
+!installation.mp4
+*e.mp3
+*file.*
